@@ -31,5 +31,5 @@ Same move every time: take a raw AI capability and hide it inside something you 
 
 ### 👋 Say hi
 
-- **LinkedIn** — <!-- TODO: paste your LinkedIn URL --> [add your profile link](https://www.linkedin.com/in/YOUR-HANDLE/)
+- **LinkedIn** — [axelsooriah](https://www.linkedin.com/in/axelsooriah/)
 - **Email** — axel.sooriah@gmail.com
